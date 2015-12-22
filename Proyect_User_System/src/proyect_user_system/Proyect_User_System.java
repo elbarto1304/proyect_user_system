@@ -6,6 +6,8 @@
  */
 package proyect_user_system;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Cesar
@@ -17,6 +19,7 @@ public class Proyect_User_System {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Hola esto es una prueba");
     }
     
 }
